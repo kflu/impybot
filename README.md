@@ -1,7 +1,8 @@
 IMPyBot: An XMPP Bot and Plug-in Framework in Python
 ==============================================================
 
-_01/26/2010_
+- 01/26/2010: created
+- 04/04/2018: migrated from [the old sourceforge repository](http://impybot.sourceforge.net/)
 
 
 Introduction
