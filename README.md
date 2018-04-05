@@ -47,14 +47,14 @@ this provides an easier way to organize and manage all the plugins.
 Installation
 --------------------------------------------------------
 
-0.  Download the package from https://sourceforge.net/projects/impybot
-0.  Unzip the package.
-0.  Install to the system.
-    0.  Unix and Linux systems:
+1.  Download the package from https://sourceforge.net/projects/impybot
+2.  Unzip the package.
+3.  Install to the system.
+    1.  Unix and Linux systems:
 
             sudo python setup.py install
 
-    0.  Windows platforms: Open a command window at the unzipped directory, do:
+    2.  Windows platforms: Open a command window at the unzipped directory, do:
 
             setup.py install
 
@@ -66,9 +66,9 @@ NOTE for Windows Vista and Windows 7 users: you must open the command windows as
 
 You can also use IMPyBot without installing it to the system location.
 
-0.  Download the package from https://sourceforge.net/projects/impybot
-0.  Unzip the package.
-0.  Open a terminal inside the unzipped directory, do:
+1.  Download the package from https://sourceforge.net/projects/impybot
+2.  Unzip the package.
+3.  Open a terminal inside the unzipped directory, do:
 
         run_bot.py -j "username" -p "password"
 
